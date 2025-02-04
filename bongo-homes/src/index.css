@@ -1,0 +1,31 @@
+*{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0%;
+}
+
+.navbar{
+  background: rgb(249,162,20);
+  background: linear-gradient(90deg, rgba(249,162,20,1) 0%, rgba(9,121,52,1) 31%, rgba(0,212,255,1) 100%);
+  color: aliceblue;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+
+.logo{
+  width: 4em;
+  border-radius: 10%;
+  margin: 0.5%;
+  margin-right: 0.8%;
+  margin-left: 0.8%;
+}
+
+.heading{
+  font-size: 1.7em;
+}
+
+header{
+  height: 10%;
+}
